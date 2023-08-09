@@ -1,0 +1,172 @@
+.tutorial {
+            display: inline-block;
+            width: 1440px;
+            height: 592px;
+               top: 592px;
+
+
+            padding: 60px 11px;
+           background: #FFCD9E;
+
+         }
+         .tutorial1 {
+            text-align: left;
+         }
+h1
+{
+  
+width: 562px;
+height: 108px;
+top: 83px;
+margin-left: 136px;
+
+  font-family: Inter;
+font-size: 36px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+p
+{
+  
+  width: 495px;
+height: 81px;
+top: 219px;
+margin-left: 136px;
+
+}
+p.ex
+{
+  width: 227px;
+height: 81px;
+top: 315px;
+left: 136px;
+  font-family: Inter;
+font-size: 20px;
+font-weight: 800;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+  
+
+
+}
+input.emails
+{
+    display: inline-block;
+  width: 344px;
+height: 64px;
+top: 411px;
+left: 136px;
+border-radius: 8px;
+border: 4px;
+  color: black;
+  color: #FFFFFF;
+  margin-left: 136px;
+  border: 4px;
+
+
+
+}
+button.button
+{
+  width: 216px;
+height: 64px;
+top: 411px;
+left: 496px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+background: #282828;
+width: 216px;
+height: 64px;
+top: 411px;
+left: 496px;
+ color: #FFFFFF;
+
+
+}
+button.as
+{
+  width: 344px;
+height: 61px;
+top: 479px;
+left: 134px;
+  font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+color : #FFFFFF;
+background: #FFCD9E;
+
+
+
+}
+input.i
+{
+  position : absolute;
+  width: 575.0000610351562px;
+height: 575px;
+top: 20px;
+left: 818px;
+padding: 66.39522552490234px 89.60975646972656px 66.15494537353516px 91.86988830566406px;
+
+
+
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+              width: 1440px;
+
+}
+footer-right {
+  text-align: right;
+}
+.footer-left, .footer-right {
+  flex: 1;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  
+}
+
+.footer ul li {
+  margin-bottom: 5px;
+   margin-left: 136px;
+
+  
+}
+
+
+.footer ul li a {
+  color: #fff;
+  text-decoration: none;
+  
+}
+.blank-line {
+  height: 10px;
+  width: 100%;
+  border-right: 2px solid transparent;
+  margin-top: 10px;
+}
+
